@@ -1,9 +1,9 @@
-# Auger Client — 7 Days to Die Player Mod Sync App
+# Auger Client: 7 Days to Die Player Mod Sync App
 
-> **For Players joining modded 7 Days to Die servers hosted with Auger**  
+> **For players joining modded 7 Days to Die servers hosted with Auger**  
 > Hosting a dedicated server instead? Download **Auger Server Manager** from [**RBND/Auger-Releases**](https://github.com/RBND/Auger-Releases/releases/latest).
 
-**Auger Client** is a lightweight, portable desktop app for Windows and Linux that automatically checks, downloads, and installs the exact mods required to join an Auger-hosted 7 Days to Die server — and launches the game with the right Anti-Cheat setting.
+**Auger Client** is a lightweight, portable desktop app for Windows and Linux that automatically checks, downloads, and installs the exact mods required to join an Auger-hosted 7 Days to Die server, then launches the game with the right Anti-Cheat setting.
 
 ---
 
@@ -11,8 +11,8 @@
 
 Head to the [**Latest Release**](https://github.com/RBND/Auger-Client-Releases/releases/latest) page and grab the zip for your OS:
 
-- **Windows**: `AugerClient-vX.Y.Z-Win.zip` — unzip and run `Auger-Client.exe`
-- **Linux**: `AugerClient-vX.Y.Z-Linux.zip` — unzip, `chmod +x Auger-Client`, and run `./Auger-Client`
+- **Windows**: `AugerClient-vX.Y.Z-Win.zip` (unzip and run `Auger-Client.exe`)
+- **Linux**: `AugerClient-vX.Y.Z-Linux.zip` (unzip, `chmod +x Auger-Client`, and run `./Auger-Client`)
 
 Also available on [**Nexus Mods**](https://www.nexusmods.com/7daystodie/mods/14184).
 
